@@ -1,9 +1,7 @@
-# Example App Backend
+# App Backend
 
-This is a really simple Java webapp that you can use to test Paymentez [example iOS apps](https://github.com/paymentez/paymentez-ios-example) and
-[example Android apps](https://github.com/paymentez/paymentez-android-example).
-
-This is intended for example purposes only: you'll likely need something more serious for your production apps.
+This is a really simple Java webapp that you can use to test Paymentez [iOS apps](https://github.com/paymentez/paymentez-ios-example) and
+[Android apps](https://github.com/paymentez/paymentez-android-example).
 
 ## Deploying to Heroku
 
