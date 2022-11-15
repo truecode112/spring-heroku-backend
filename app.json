@@ -1,0 +1,21 @@
+{
+  "name": "Example Paymentez Backend",
+  "description": "For testing the Paymentez example mobile apps at https://github.com/paymentez",
+  "repository": "https://github.com/paymentez/example-java-backend",
+  "keywords": [
+    "ios",
+    "android",
+    "java",
+    "paymentez"
+  ],
+  "env": {
+    "PAYMENTEZ_APP_SERVER_CODE": {
+      "description": "Ask the Paymentez team for it.",
+      "required": true
+    },
+    "PAYMENTEZ_APP_SERVER_KEY": {
+      "description": "Ask the Paymentez team for it.",
+      "required": true
+    }
+  }
+}
